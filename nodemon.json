@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW" : "mongodb+srv://nandakishore541:WW9X8lhIMjcPrJXU@cluster1.iszs04d.mongodb.net/allBanks",
+        "NAME" : "Nandu"
+    }
+}
